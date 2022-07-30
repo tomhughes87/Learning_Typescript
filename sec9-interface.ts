@@ -61,3 +61,4 @@ const CoD: game2 = {
 // - ={}/ {}
 // interface = objects only! 
 // aliases =objects or single values (type Car = string)
+
