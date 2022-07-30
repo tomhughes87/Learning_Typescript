@@ -1,9 +1,9 @@
 # LEARNING TYPESCRIPT(.ts)
 
 - This repo outlines my learning process of .ts
-- It contains all my notes, practices and exercises
-- This repo will be my cheatsheet/ reference when needed
-- Hopefully it also shows that my learning of .ts was thorough
+- It contains all of my: notes, practices, and exercises
+- This repo will act as my cheatsheet when needed
+- Hopefully, this repo also shows that my learning of .ts was thorough
 
 <br/>
 
@@ -21,7 +21,7 @@
 - interface
 - functions
 - classes
-- readonly
+- read only
 - optional data
 
 
@@ -30,7 +30,7 @@
 ## How?
 
 ### The Course:
-I have been doing an amazing course by Colt Steele on Udemy:
+An amazing course by Colt Steele on Udemy:
 https://www.udemy.com/course/learn-typescript/
 
 <br/>
@@ -40,16 +40,15 @@ https://www.udemy.com/course/learn-typescript/
 
 Here are some techniques I used to reenforce the learning process:
 
-- Although sometimes sections and videos are short, I have spent a much longer practicing the points covered.
+- Although some sections of the course are short, I have spent many hours practicing the areas covered.
 
-- I changed all of the examples in the videos and personalised them to reenforce the learn process.
+- I changed all of the examples in the videos and personalised them to re-enforce the learning process.
 
-- I would often watch the intro and then set myself the challenge of trying to solve the upcoming problems with
+- I would often watch the intro to a section and then try to solve the upcoming problems.
 
-- Making notes and organising examples of .ts features for 'future me' so that I have cheatsheets and references to refer back to.
+- I made notes and organized examples of .ts features for 'future me' so that I have cheatsheets and references to refer back to (this repo).
 
 
-### Files:
+<!-- ### Files:
 
-The course was divided into sections, I used 'sec+num-' as a prefix for each .ts file. The titles don't completely match the vids and some single .ts files may contain topics from several videos.
-
+The course was divided into sections. I used 'sec+num-' as a prefix for each .ts file. The titles don't completely match the vids and some single .ts files may contain topics from several videos. -->
