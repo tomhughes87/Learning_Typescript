@@ -42,6 +42,8 @@
 
 // JS Classes:
 //class keywords:
+// terms: player1/players2= instances 
+// terms: Player= class
 
 class Player {
     lives=3
@@ -104,7 +106,7 @@ console.log(memeVideo53)
 // #score <this makes it private,  to update it a wrapper method can be used
 
 class Meal {
-    static startMessage = console.log('a new meal created!') // static applies to every object in the class, it's not unique to the object 
+    static startMessage = console.log('a new meal created!') // static applies to every object in the class(NO! to the class no the instances.. i think), it's not unique to the object 
     #edable= true //this is private
     constructor(type,gultenfree,cal,cost){
         this.type=type
@@ -140,3 +142,21 @@ bigMac.poisonous()
 bigMac.checkEdabilty
 bigMac.changeEdability =true
 bigMac.checkEdabilty
+
+
+//Extending class & super()
+class HomeCookedMeal extends Meal{
+    homeCooked='yes, obvs'
+    constructor (type,gultenfree,cal,cost,cook){
+        super(type,gultenfree,cal,cost,)
+        this.cook=cook
+    }
+    whoMadeIt(){
+       return `${this.cook} made the ${this.type}? ${this.homeCooked}`
+    }
+}
+
+const SundayRoast = new HomeCookedMeal("Traditional Roast",false,850,0,'Mum')
+console.log(SundayRoast)
+console.log(SundayRoast.whoMadeIt())
+
