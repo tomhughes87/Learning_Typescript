@@ -22,7 +22,7 @@ interface Addable2{
 }
 //method name: add, 
 //params: x, y
-//return: num
+//return: num 
 
 //BANANA- DONT KNOW HOW TO ASSIGN/CALL
 const attempt2: Addable2={

@@ -15,3 +15,4 @@ function whatOnTheMenu(stuff:menu) {
 console.log(whatOnTheMenu({name:'Paloma',starters:'tapas things',mains:'burgers'}))
 
 console.log(whatOnTheMenu({name:'Mundo',starters:'toasts',mains:'set meals/ lunch deals', dessert:'ice-creams'}))
+ 

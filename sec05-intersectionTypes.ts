@@ -13,4 +13,4 @@ type SizeAndColour = Colour & Size;
 const face: SizeAndColour = {
     colour:'blueish',
     size: 999,
-}
+} 

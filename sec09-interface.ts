@@ -24,7 +24,7 @@ const Zelda: game1 = {
 const vivaPin: game1= {
     id:2,
     game1Name: 'Viva Pinata!',
-    game1Cost: 10,
+    game1Cost: 10, 
     game1Length: 30,
 }
 

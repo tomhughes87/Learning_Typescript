@@ -25,7 +25,7 @@ const jimmy: coder = {
     experience:['google Q&A','BE dev at tiktok'],
     yearsExp: 3
 }
-
+ 
 const NewTom:FullStack={
     name:'Tom',
     height: 183,

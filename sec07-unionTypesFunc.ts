@@ -20,5 +20,5 @@ function costOfGame(price: number | string):void {
 
 
 costOfGame('$39.99')
-costOfGame(39.99)
+costOfGame(39.99) 
 

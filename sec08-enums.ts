@@ -17,7 +17,7 @@ enum direction{
     LEFT='left', //left
     RIGHT='right',
     U_TURN='turn around 180 degrees',
-    FORWARD='straight on',
+    FORWARD='straight on', 
 }
 //enums creates lots of extra code in js, some dont like that and .ts is moving away from that
 //the 'direction' enum above turns into this:

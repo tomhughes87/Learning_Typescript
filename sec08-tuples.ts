@@ -19,7 +19,7 @@ hex = [,10,'fe','a3']
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Deprecated_octal
 
 ///////////////
-// ODD THING!
+// ODD THING! 
 ///////////////
 //you can not change a tuple... BUT you can use array.pop() and array.push()
 

@@ -12,5 +12,5 @@ interface Guy{
 const Chris: Guy= {
     name:'Chris',
     age: 31,
-    job: 'IT recruitment',
+    job: 'IT recruitment', 
 }

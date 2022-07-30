@@ -15,5 +15,5 @@ starterPokemon = "Bulbasaur"
 
 /////////////
 let age:  1 | 2 | 3;
-age = 3 
+age = 3  
 // BANANA: not able to use 18> or anything like that?

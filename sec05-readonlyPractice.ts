@@ -12,7 +12,7 @@ const inTheAttic: bitsAndBats = {
     valuable : 'vynls',
     sentimental : 'photos',
 }
-
+ 
 //try change them:
 inTheAttic.tat='tea clothes'
 inTheAttic.valuable='vintage wardrobe'

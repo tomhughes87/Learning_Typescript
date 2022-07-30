@@ -25,7 +25,7 @@ describeRoom({
     height: 2.5,
     objects: {one:'sofa',two: 'tv', three:'coffee table'}
 })
-)
+) 
 
 
 //////////////////////////

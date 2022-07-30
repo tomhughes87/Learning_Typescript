@@ -9,3 +9,4 @@ const stuff3b: number [] | string [] = [2,3,1,]
 
 const stuff4a: (number | string) [] = ['1','2',3,4,5,6,]
 const stuff4b: (number | string) [] = [2,3,1,'hello','world']
+ 

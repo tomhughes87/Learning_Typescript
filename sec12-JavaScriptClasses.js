@@ -15,7 +15,6 @@
 // dist folder (for outputs)
 // src folder
 
-
 // indea.html(
 // <script src='./dist/index.js
 
@@ -41,8 +40,6 @@
 // ///////////////////
 
 
-
-
 // JS Classes:
 //class keywords:
 
@@ -63,7 +60,7 @@ class Player {
     loseLife(){
         this.lives-=1
     }
-}
+} 
 
 const player1 = new Player("Andy", "Xbox",);
 const player2 = new Player("Meg", "Phone",);
@@ -107,7 +104,8 @@ console.log(memeVideo53)
 // #score <this makes it private,  to update it a wrapper method can be used
 
 class Meal {
-    #edable= true
+    static startMessage = console.log('a new meal created!') // static applies to every object in the class, it's not unique to the object 
+    #edable= true //this is private
     constructor(type,gultenfree,cal,cost){
         this.type=type
         this.gultenfree=gultenfree

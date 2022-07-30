@@ -8,4 +8,4 @@ const game: string[][] = [
     ['x','o','x']
 ]
 
-// for each nested array, just add another []
+// for each nested array, just add another [] 

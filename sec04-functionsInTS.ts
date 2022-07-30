@@ -15,7 +15,7 @@ square('hello')
 function add(num:number) {
     console.log(num*num)
     return num*num
-}
+} 
 add(3)
 // add('hello') //this isn't allowed because of the type
 

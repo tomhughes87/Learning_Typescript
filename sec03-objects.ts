@@ -16,7 +16,7 @@ printPokemon({ name: 'Bulbasaur', type:'grass', evoLvl: 1, moves: ['vine whilp',
 
 let coordinate: {x:number; y:number} = {x:34,y:2};
 
-
+ 
 ////////////////////////
 //Excess properties (passing in more params than used in func)
 ////////////////////////

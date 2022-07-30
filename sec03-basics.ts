@@ -22,4 +22,4 @@ let trythis;
 
 /////////////
 //tsc <filename.ts>   in terminal compiles to to js
-// node <filename.js>   in terminal runs the file
+// node <filename.js>   in terminal runs the file 

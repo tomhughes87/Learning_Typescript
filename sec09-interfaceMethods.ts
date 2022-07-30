@@ -1,5 +1,5 @@
 interface cat{
-    readonly id;
+    readonly id: number
     catName: string;
     catColour: string[];
     catAge: number;
@@ -13,11 +13,11 @@ const Mango: cat={
     catName:'Mango',
     catColour:['Orange','white', 'black',],
     catAge:3,
-    ability: ()=>{
-        return `${this.catName} jumped`
-        // return `${Mango.catName} jumped` /Mango or this both work
+    ability:  () :string =>{
+        // return `${this.catName} jumped`
+        return `${Mango.catName} jumped` //Mango or this both work, BUT this. does throw and err... banana
     },
     life_exceptancy(avgLifeSpan) {
         return Mango.catAge - avgLifeSpan
     },
-}
+} 

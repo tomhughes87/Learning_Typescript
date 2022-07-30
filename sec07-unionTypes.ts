@@ -25,7 +25,7 @@ type keyboard = {
     wasd: string
     leftClick: string
 }
-
+ 
 type controller = {
     leftStick: string
     rightTrigger: string
