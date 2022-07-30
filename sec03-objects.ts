@@ -32,8 +32,15 @@ console.log(NoOverFlow('Cordoba',47))
 /////////////////////
 //attempt 2
 
+//the interface was added several days later
+interface stuffType {
+    name: string;
+    temp: number;
+    place: string;
+}
+
 ///this one works but the obj item types arent defined
-function overFlow(stuff):string {
+function overFlow(stuff:stuffType):string {
     return `It is ${stuff.temp} degrees in ${stuff.place}`
 }
 //call func using MORE by sending an array/obj
