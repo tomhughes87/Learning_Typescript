@@ -10,9 +10,19 @@
 
 ## What I've learnt:
 
--
--
--
+- config file
+- strict data types
+- arrays/ nested arrays
+- union types
+- type Aliases
+- objects
+- enums
+- tuples
+- interface
+- functions
+- classes
+- readonly
+- optional data
 
 
 <br/>
