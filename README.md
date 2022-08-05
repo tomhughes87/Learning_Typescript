@@ -23,6 +23,9 @@
 - classes
 - read only
 - optional data
+- type narrowing
+- ts with react
+- generics
 
 
 <br/>
